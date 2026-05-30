@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Kali Linux PC",
+  "description": "A fully functional Kali Linux themed Mini PC simulator for Android with styled desktop environment, movable windows, multi-app system (Terminal, VS Code, Browser, VLC player, File Manager, Store), and persistent virtual filesystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
